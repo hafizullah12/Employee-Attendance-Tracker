@@ -13,8 +13,8 @@
 9.Payroll<br>
 
 # How To Run??
-
-After Starting Apache and MySQL in XAMPP, follow the following steps
+At First Download or Clone this Repository,Then
+Starting Apache and MySQL in XAMPP and  follow the following steps
 
 1st Step: Extract file <br>
 2nd Step: Copy main project folder <br>
