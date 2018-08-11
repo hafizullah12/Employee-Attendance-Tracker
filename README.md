@@ -1,18 +1,18 @@
 # Employee-Attendance-Tracker
 
-# Features:
+# Features
 
-Employee and Administrative side
-Add, Edit, Remove and View Employees
-Manage Attendance
-Overtime Works
-Advance Cash
-Manage Schedules
-Deductions
-Position Titles
-Payroll
+Employee and Administrative side <br>
+Add, Edit, Remove and View Employees <br>
+Manage Attendance<br>
+Overtime Works<br>
+Advance Cash<br>
+Manage Schedules<br>
+Deductions<br>
+Position Titles<br>
+Payroll<br>
 
-How To Run??
+#How To Run??
 
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
