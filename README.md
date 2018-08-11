@@ -2,17 +2,17 @@
 
 # Features
 
-Employee and Administrative side <br>
-Add, Edit, Remove and View Employees <br>
-Manage Attendance<br>
-Overtime Works<br>
-Advance Cash<br>
-Manage Schedules<br>
-Deductions<br>
-Position Titles<br>
-Payroll<br>
+1.Employee and Administrative side <br>
+2.Add, Edit, Remove and View Employees <br>
+3.Manage Attendance<br>
+4.Overtime Works<br>
+5.Advance Cash<br>
+6.Manage Schedules<br>
+7.Deductions<br>
+8.Position Titles<br>
+9.Payroll<br>
 
-#How To Run??
+# How To Run??
 
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
