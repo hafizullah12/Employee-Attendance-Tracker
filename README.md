@@ -36,7 +36,8 @@ After Creating Database,
 Final Step: Go To URL “http://localhost/Employee-Attendance-Tracker/admin/”
 
 Insert the username and password which is as following ...
-  username = admin
-  password = password
+<br>
+  username = admin <br>
+  password = password<br>
   
   
